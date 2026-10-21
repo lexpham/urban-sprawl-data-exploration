@@ -74,7 +74,3 @@ As an economics student, I'm interested in how decisions about infrastructure, r
 This project gave me an opportunity to move beyond economic theory and work directly with data: asking questions, testing relationships, interpreting results, and communicating findings.
 
 It also reinforced an important lesson: statistical evidence is useful not only for finding patterns, but also for recognizing the limits of what we can confidently conclude.
-
-## Future Improvements
-
-I would like to expand the sample, standardize geographic definitions, examine additional socioeconomic factors, and explore regression models to better understand these relationships.
