@@ -65,7 +65,7 @@ The sample includes only 10 metropolitan areas, and some indicators use differen
 ## Project Files
 
 - **`index.html`** — The completed report, including visualizations and statistical results.
-- **`AlexPham-CodeThruProject(1).Rmd`** — The R Markdown source file containing the analysis and code.
+- **`index.Rmd`** — The R Markdown source file containing the analysis and code.
 
 ## Why I Built This
 
